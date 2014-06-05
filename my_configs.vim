@@ -3,6 +3,7 @@ set expandtab
 set shiftwidth=2
 set tabstop=2
 set smarttab
+set autoindent
 colorscheme monokai
 
 let g:syntastic_mode_map={ 'mode': 'active', 'active_filetypes': [], 'passive_filetypes': ['html'] }                                                                                      
